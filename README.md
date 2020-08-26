@@ -1,2 +1,1 @@
-# Rsync
-Rsync commands
+This is useful .bat file to use on Windows with Rsync to copy files in a batch file script. This example copies C:\temp\test recursively to G:\temp incrementally, only if the source / local file changes.
